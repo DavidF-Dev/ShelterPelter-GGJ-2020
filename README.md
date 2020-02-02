@@ -9,14 +9,19 @@ We created our game in **C# Unity**. The game involves utilising a sling shot to
 **Shelter Pelter Gameplay Video - [LINK](https://youtu.be/SeecvpnHG9M)**<br>
 [![Alt text](https://img.youtube.com/vi/SeecvpnHG9M/0.jpg)](https://youtu.be/SeecvpnHG9M)<br>
 **Screenshots**<br>
-<img src="ss1.png" width=50%/>
-<img src="ss2.png" width=50%/></br>
-<img src="ss3.png" width 50%/></br>
+<img src="ss1.png" width=75%/>
+<img src="ss2.png" width=75%/>
+</br>
 
 ## Download & Links
-The game can be downloaded from this repository or alternatively from the following sites.</br>
-Game Jam Page: [https://globalgamejam.org/2020/games/sling-builder-5](https://globalgamejam.org/2020/games/sling-builder-5)</br>
-Itch.io Page: [https://justcamh.itch.io/shelter-pelter](https://justcamh.itch.io/shelter-pelter)</br>
+Download Shelter Pelter:&nbsp;
+[Windows (x86)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x86.zip)&nbsp;&nbsp;&nbsp;&nbsp;
+[Windows (x64)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x64.zip)&nbsp;&nbsp;&nbsp;&nbsp;
+[Linux](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-linux.zip)&nbsp;&nbsp;&nbsp;&nbsp;
+[Mac OS X](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-mac-os.zip)</br>
+</br>
+Global Game Jam Page: [https://globalgamejam.org/2020/games/sling-builder-5](https://globalgamejam.org/2020/games/sling-builder-5)</br>
+Itch.io Page: [https://justcamh.itch.io/shelter-pelter](https://justcamh.itch.io/shelter-pelter)</br></br>
 
 ## Credits & Acknowledgements
 ### Design
