@@ -1,4 +1,7 @@
 # Shelter Pelter (Global Game Jam 2020)
+
+**Platforms: Windows, Linux, Mac OS X**</br>
+
 The game is a 2D physics-based mayhem puzzle game. Launch building materials at stranded individuals to protect them from the impending boulder storm.
 
 The Game Jam was held at AIE Campus Canberra on February 2020. The theme of the jam was **Repair**.<br>
