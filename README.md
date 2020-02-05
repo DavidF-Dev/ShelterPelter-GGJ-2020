@@ -33,7 +33,3 @@ Itch.io Page: [https://justcamh.itch.io/shelter-pelter](https://justcamh.itch.io
 - [Jonah B](https://artstation.com/jtb)
 ### Programming
 - David Flintoft
-
-</br></br><br><br>
-<img src="aie_logo_clr.jpg" alt="Academy of Interactive Entertainment" width=250px height=250px/><br>
-Academy of Interactive Entertainment Canberra<br>
