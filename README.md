@@ -1,6 +1,7 @@
 # Shelter Pelter (Global Game Jam 2020)
 
 **Platforms: Android, Windows, Linux, Mac OS X**</br>
+**Version: 1.1**</br>
 
 The game is a 2D physics-based mayhem puzzle game. Launch building materials at stranded individuals to protect them from the impending boulder storm.
 
@@ -12,8 +13,8 @@ We created our game in **C# Unity**. The game involves utilising a sling shot to
 **Shelter Pelter Trailer Video - [LINK](https://youtu.be/gLzM2U81z24)**</br>
 [![Alt text](https://img.youtube.com/vi/gLzM2U81z24/0.jpg)](https://youtu.be/gLzM2U81z24)</br></br>
 **Screenshots**<br>
-<img src="ss1.png" width=75%/>
-<img src="ss2.png" width=75%/>
+<img src="ss1.png" width=60%/>
+<img src="ss2.png" width=60%/>
 </br>
 
 ## Download & Links
