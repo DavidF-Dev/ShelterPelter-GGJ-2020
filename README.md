@@ -12,9 +12,13 @@ We created our game in **C# Unity**. The game involves utilising a sling shot to
 
 **Shelter Pelter Trailer Video - [LINK](https://youtu.be/gLzM2U81z24)**</br>
 [![Alt text](https://img.youtube.com/vi/gLzM2U81z24/0.jpg)](https://youtu.be/gLzM2U81z24)</br></br>
+
+**Shelter Pelter Showcase (Canberaa GGJ 2020 Presentation) - [LINK](https://youtu.be/Oglfohg6Bq4)**</br>
+[![Alt text](https://img.youtube.com/vi/Oglfohg6Bq4/0.jpg)](https://youtu.be/Oglfohg6Bq4)</br></br>
+
 **Screenshots**<br>
-<img src="ss1.png" width=60%/>
-<img src="ss2.png" width=60%/>
+<img src="ss1.png" width=50%/>
+<img src="ss2.png" width=50%/>
 </br>
 
 ## Download & Links
