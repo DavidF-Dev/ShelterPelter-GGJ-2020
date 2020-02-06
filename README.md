@@ -11,10 +11,10 @@ Our group consisted of three members: one artist, one designer and myself as the
 We created our game in **C# Unity**. The game involves utilising a sling shot to send various building blocks across the level to arrange a structure. The structure must protect the villagers from the impending storm of falling rocks. There consists a start screen (with an introduction cutscene), a level select screen (that saves progress), eight hand-crafted levels, and a ninth randomly generated level.
 
 **Shelter Pelter Trailer Video - [LINK](https://youtu.be/gLzM2U81z24)**</br>
-[![Alt text](https://img.youtube.com/vi/gLzM2U81z24/0.jpg)](https://youtu.be/gLzM2U81z24)</br></br>
+[![Alt text](https://img.youtube.com/vi/gLzM2U81z24/0.jpg)](https://youtu.be/gLzM2U81z24)</br>
 
 **Shelter Pelter Showcase (Canberaa GGJ 2020 Presentation) - [LINK](https://youtu.be/Oglfohg6Bq4)**</br>
-[![Alt text](https://img.youtube.com/vi/Oglfohg6Bq4/0.jpg)](https://youtu.be/Oglfohg6Bq4)</br></br>
+[![Alt text](https://img.youtube.com/vi/Oglfohg6Bq4/0.jpg)](https://youtu.be/Oglfohg6Bq4)</br>
 
 **Screenshots**<br>
 <img src="ss1.png" width=50%/>
