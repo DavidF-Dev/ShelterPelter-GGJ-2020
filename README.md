@@ -6,7 +6,7 @@
 The game is a 2D physics-based mayhem puzzle game. Launch building materials at stranded individuals to protect them from the impending boulder storm.
 
 The Game Jam was held at AIE Campus Canberra on February 2020. The theme of the jam was **Repair**.<br>
-Our group consisted of three members: one artist, one designer and myself as the programmer. We were given one weekend to create a game that somewhat related to the theme.
+Our group consisted of three members: one artist, one designer and myself as the programmer.
 
 We created our game in **C# Unity**. The game involves utilising a sling shot to send various building blocks across the level to arrange a structure. The structure must protect the villagers from the impending storm of falling rocks. There consists a start screen (with an introduction cutscene), a level select screen (that saves progress), eight hand-crafted levels, and a ninth randomly generated level.
 
