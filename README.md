@@ -1,6 +1,6 @@
 # Shelter Pelter (Global Game Jam 2020)
 
-**Platforms: Windows, Linux, Mac OS X**</br>
+**Platforms: Android, Windows, Linux, Mac OS X**</br>
 
 The game is a 2D physics-based mayhem puzzle game. Launch building materials at stranded individuals to protect them from the impending boulder storm.
 
@@ -9,7 +9,7 @@ Our group consisted of three members: one artist, one designer and myself as the
 
 We created our game in **C# Unity**. The game involves utilising a sling shot to send various building blocks across the level to arrange a structure. The structure must protect the villagers from the impending storm of falling rocks. There consists a start screen (with an introduction cutscene), a level select screen (that saves progress), eight hand-crafted levels, and a ninth randomly generated level.
 
-**Shelter Pelter Gameplay Video - [LINK](https://youtu.be/gLzM2U81z24)**</br>
+**Shelter Pelter Trailer Video - [LINK](https://youtu.be/gLzM2U81z24)**</br>
 [![Alt text](https://img.youtube.com/vi/gLzM2U81z24/0.jpg)](https://youtu.be/gLzM2U81z24)</br></br>
 **Screenshots**<br>
 <img src="ss1.png" width=75%/>
@@ -18,6 +18,7 @@ We created our game in **C# Unity**. The game involves utilising a sling shot to
 
 ## Download & Links
 Download Shelter Pelter:&nbsp;
+**Google Play**&nbsp;&nbsp;&nbsp;&nbsp;
 [Windows (x86)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x86.zip)&nbsp;&nbsp;&nbsp;&nbsp;
 [Windows (x64)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x64.zip)&nbsp;&nbsp;&nbsp;&nbsp;
 [Linux](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-linux.zip)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,4 +33,4 @@ Itch.io Page: [https://justcamh.itch.io/shelter-pelter](https://justcamh.itch.io
 ### Art
 - [Jonah B](https://artstation.com/jtb)
 ### Programming
-- David Flintoft
+- [David F](https://sites.google.com/view/davidf-dev)
