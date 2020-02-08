@@ -23,7 +23,7 @@ We created our game in **C# Unity**. The game involves utilising a sling shot to
 
 ## Download & Links
 Download Shelter Pelter:&nbsp;
-**Google Play**&nbsp;&nbsp;&nbsp;&nbsp;
+[Google Play](https://play.google.com/store/apps/details?id=com.DavidFDev.ShelterPelter)&nbsp;&nbsp;&nbsp;&nbsp;
 [Windows (x86)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x86.zip)&nbsp;&nbsp;&nbsp;&nbsp;
 [Windows (x64)](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-windows-x64.zip)&nbsp;&nbsp;&nbsp;&nbsp;
 [Linux](https://github.com/DavidF-Dev/ShelterPelter-GGJ-2020/raw/master/shelter-pelter-linux.zip)&nbsp;&nbsp;&nbsp;&nbsp;
