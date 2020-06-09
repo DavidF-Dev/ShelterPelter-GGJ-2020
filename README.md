@@ -3,6 +3,8 @@
 **Platforms: Android, Windows, Linux, Mac OS X**</br>
 **Version: 1.1**</br>
 
+**Finalist for the 2020 [Freeplay Independant Game Festival](https://www.freeplay.net.au) award in the Student Game Award category!**</br>
+
 The game is a 2D physics-based mayhem puzzle game. Launch building materials at stranded individuals to protect them from the impending boulder storm.
 
 The Game Jam was held at AIE Campus Canberra on February 2020. The theme of the jam was **Repair**.<br>
