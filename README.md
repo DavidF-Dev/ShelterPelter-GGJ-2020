@@ -40,4 +40,4 @@ Itch.io Page: [https://justcamh.itch.io/shelter-pelter](https://justcamh.itch.io
 ### Art
 - [Jonah B](https://artstation.com/jtb)
 ### Programming
-- [David F](https://sites.google.com/view/davidf-dev)
+- [David F](https://www.davidfdev.com/)
